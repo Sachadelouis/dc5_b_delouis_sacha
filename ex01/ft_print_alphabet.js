@@ -1,1 +1,6 @@
-console.log ("abcdefghijklmnopqrstuvwxyz")
+function alphabet ()
+{
+    console.log("abcdefghijklmnopqrstuvwxyz");
+}
+
+alphabet () 
